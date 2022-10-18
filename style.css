@@ -1,0 +1,6 @@
+h1 {  display: none;}
+@media screen and (min-width: 0px) and (max-width: 576px) {.Mobile {display: block;} body {background-image: url(./images/1ssd.jpg); background-size: cover;}}
+@media screen and (min-width: 577px) and (max-width: 768px) {.Tablet {display: block;} body {background-image: url(./images/1ssd.jpg); background-size: cover;}}
+@media screen and (min-width: 769px) and (max-width: 992px) {.Laptop { display: block;}body {background-image: url(./images/1ssd.jpg); background-size: cover;}}
+@media screen and (min-width: 993px) and (max-width: 1200px) {.Desktop {display: block;}body {background-image: url(./images/1ssd.jpg); background-size: cover;}}
+@media screen and (min-width: 1201px) and (max-width: 1800px) {.Huge {display: block;}body {background-image: url(./images/1ssd.jpg); background-size: cover;}}
